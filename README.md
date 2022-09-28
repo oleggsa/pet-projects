@@ -1,17 +1,20 @@
 # pet-projects
 
-https://tourmaline-tulumba-2f451d.netlify.app/login
-Login: Admin
+[Todo List With Authentication](https://tourmaline-tulumba-2f451d.netlify.app/login)
+
+```
+Login: Admin 
 Password: 12345
+```
 
-Stack: VueJS, Vue Router, VueX
-
-====================================================================
-
-https://chipper-creponne-6a62f7.netlify.app/
-VanillaJS
+>Stack: VueJS, Vue Router, VueX
 
 ====================================================================
 
-https://venerable-mandazi-f7e883.netlify.app/
-VanillaJS
+[Cards with Musical Instruments](https://chipper-creponne-6a62f7.netlify.app/)
+>Stack: VanillaJS
+
+====================================================================
+
+[Slider](https://venerable-mandazi-f7e883.netlify.app/)
+>Stack: VanillaJS
